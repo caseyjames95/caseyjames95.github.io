@@ -6,3 +6,21 @@ body {
     margin-top: 15px;
     background-color: #F8F9FA;
 }
+
+.body {
+    margin-top: 15px;
+    background-color: #F8F9FA;
+    opacity: .9;
+}
+
+.footer {
+    
+    background-color: #F8F9FA;
+    opacity: .9;
+}
+
+.footer1 {
+    margin-top: 15px;
+    background-color: #F8F9FA;
+    opacity: .9;
+}
