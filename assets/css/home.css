@@ -7,8 +7,11 @@ body {
     background-color: #F8F9FA;
 }
 
-.body {
+.top {
     margin-top: 15px;
+}
+
+.body {
     background-color: #F8F9FA;
     opacity: .9;
 }
