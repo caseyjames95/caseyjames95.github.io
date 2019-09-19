@@ -9,3 +9,24 @@ body {
     margin-top: 15px;
     background-color: #F8F9FA;
 }
+
+.top {
+    margin-top: 15px;
+}
+
+.body {
+    background-color: #F8F9FA;
+    opacity: .9;
+}
+
+.footer {
+    margin-bottom: 15px;
+    background-color: #F8F9FA;
+    opacity: .9;
+}
+
+.footer1 {
+    margin-top: 15px;
+    background-color: #F8F9FA;
+    opacity: .9;
+}
